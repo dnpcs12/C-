@@ -2,4 +2,4 @@
 
 2019 
 first semester 
-<object-oriented programming> class , lab
+object-oriented programming class , lab
