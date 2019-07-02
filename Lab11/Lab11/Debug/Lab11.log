@@ -1,0 +1,8 @@
+﻿  Lab11.cpp
+d:\user\desktop\work\programming\lab11\lab11\lab11.cpp(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  d:\user\desktop\work\programming\lab11\lab11\lab11.cpp(53): note: 컴파일 중인 함수 템플릿 인스턴스화 'void sort<int>(std::vector<int,std::allocator<_Ty>> &)'에 대한 참조를 확인하십시오.
+          with
+          [
+              _Ty=int
+          ]
+  Lab11.vcxproj -> D:\User\Desktop\work\programming\Lab11\Debug\Lab11.exe

@@ -1,0 +1,5 @@
+﻿  Lab11_04.cpp
+d:\user\desktop\work\programming\lab11\lab11_04\lab11_04.cpp(85): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\user\desktop\work\programming\lab11\lab11_04\lab11_04.cpp(87): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\user\desktop\work\programming\lab11\lab11_04\lab11_04.cpp(88): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Lab11_04.vcxproj -> D:\User\Desktop\work\programming\Lab11\Debug\Lab11_04.exe

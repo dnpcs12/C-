@@ -1,0 +1,7 @@
+On its 60th anniversary in 2009, Kyung
+Hee University prepared for a second leap
+forward while seeking a new paradigm of future university development.
+
+In this paper, we explore the feasibility of a
+medical training system for breast tumor palpation
+based on haptic augmented reality (AR) technology.
